@@ -4,6 +4,9 @@
 32137151 - Lívia Negrucci Cantowitz
 32150032 - Rafael de Toledo Navarro
 
+Nesse código, nós implementamos um grafo onde os vertices são pontos turisticos e as arestas 
+que ligam os vertices são os caminhos entre eles pelas estações de metro. Cada aresta possui 
+um peso, que é a distancia entre uma estação e outra.
 '''
 
 import Arquivo
