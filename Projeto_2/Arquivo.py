@@ -3,7 +3,6 @@
 32195311 - Larissa Rafaela Rodrigues Nepomuceno
 32137151 - Lívia Negrucci Cantowitz
 32150032 - Rafael de Toledo Navarro
-
 '''
 
 from aresta import Aresta, Vertice
